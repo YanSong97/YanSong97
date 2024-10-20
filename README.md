@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on Multi-agent Learning & Evaluation, LLM-based Agent, and some Bayesian stuff...
 - 🌱 Feel free to check out our online evaluation platform [**Jidi(及第)**](jidiai.cn), a Kaggle-like platform that hosts competition events but also provides agent live ranking.
-- ⚽ Also check out our open-sourced population-based MARL framework designed for Google Research Football 👉 [link](https://github.com/jidiai/GRF_MARL).
+- ⚽ Also check out our open-sourced population-based MARL framework designed for Google Research Football: [GRF-MARL](https://github.com/jidiai/GRF_MARL).
+- 🦾 I recently participated in an amazing LLM reasoning project : [***OpenR***](https://github.com/openreasoner/openr/).
 - 😄 Have fun and enjoy.
